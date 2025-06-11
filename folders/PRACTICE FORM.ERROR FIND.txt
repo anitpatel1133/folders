@@ -1,0 +1,28 @@
+                    PRACTICE FORM 
+                    (Find Error)  
+
+-> First name
+   Last name 
+   submited on error this Gender and mobile number not error any line.
+
+-> Form only requires 
+   Name,Gender and mobile number this 3 type comaplasry required.
+   But Dob as it is not select and submitted.
+
+-> Subject is the not specific first letter 
+	EX: Search is first letter A.
+	    But list is first name showed Maths not for the show
+	    Account there are alerady this list. 
+
+-> Hobbies is 3.
+   but 3 select and submitted form but not select any one not error.
+
+-> State and City is only 3 options not any option for state and city.
+   State select any one 
+	Ex: ncr
+   But city select Merrur and submit form and submitted not the
+   Error.
+
+-> last is only submit buton option not for the Reset button.  
+
+  
